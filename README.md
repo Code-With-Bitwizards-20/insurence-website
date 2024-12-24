@@ -1,2 +1,8 @@
-# insurence-website
- The Kaltech Insurance website is a modern, user-friendly platform designed to provide seamless access to a variety of insurance services. Developed exclusively using React JS, this website ensures an engaging and responsive user experience across all devices.  Key Features:  React JS Framework: Built using the powerful and flexible React JS framework for efficient and dynamic user interfaces.  Responsive Design: Optimized for desktops, tablets, and mobile devices, ensuring a consistent and accessible experience for all users.  Interactive Elements: Functional components such as forms, buttons, and sliders, enhancing user engagement.  Clean Code: Structured with well-documented React JS code, following best practices to ensure maintainability and scalability.  Performance Optimization: Fast loading times achieved through efficient coding and resource management.  SEO-Friendly: Basic on-page SEO techniques implemented to improve search engine visibility and attract more organic traffic.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
