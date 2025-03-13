@@ -57,25 +57,24 @@ const Footer = () => {
                   <h3>Useful Contacts</h3>
                   <ul>
                     <li>
-                      <FaPhoneAlt /> +1(931) - 343 - 4664
+                      <FaPhoneAlt /> +92(349) - 627 - 4499
                     </li>
                     <li>
-                      <MagzineMail /> info@insurancelifemagazine.com
+                      <MagzineMail /> mediatechgseries@gmail.com
                     </li>
                     <li>
-                      <ServicesMail /> info@kaltechconsultancyservices.com
+                      <ServicesMail /> mediatechgseries@outlook.com
                     </li>
                   </ul>
                 </div>
               </div>
             </div>
-            
           </div>
         </div>
 
         <div className={Styling.lowerPart}>
           <div className={Styling.liContainer}>
-            <li>Designed by Kaltech Designs</li>
+            <li>Designed by Code With Bitwizards</li>
             <li>Copyright 2023 UpWealth Magzine</li>
             <li>Terms and conditions</li>
             <li>Privacy Policies</li>
